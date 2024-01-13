@@ -1,10 +1,9 @@
-# 基于springboot的评分评教管理系统
-
+# 基于springboot的评分评教管理系统1
 ## 获取方式
 
-扫描下方，回复关键词  ：**评教** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**评教**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -17,11 +16,9 @@
 
 ## 2、项目技术
 
-后端框架：springboot
+后端框架：springboot、mybatis
 
-前端技术：layui+html+js
-
-前端技术：Bootstrap、Layui、jsp、css、JavaScript、JQuery
+前端技术：Layui+html+js
 
 ## 3、开发环境
 
@@ -36,37 +33,29 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091056856.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208091056856.jpg)
 
 ### 4.2 学生模块
 
-![学生-评分1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091057257.jpg)
+![学生-评分1](https://www.codeshop.fun/Typora-Images/202208091057257.jpg)
 
-![学生-评分2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091057145.jpg)
+![学生-评分2](https://www.codeshop.fun/Typora-Images/202208091057145.jpg)
 
 ### 4.3教师 模块
 
-![教师功能界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091057617.jpg)
+![教师功能界面](https://www.codeshop.fun/Typora-Images/202208091057617.jpg)
 
 ### 4.4管理员 模块
 
-![管理员-管理员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091057569.jpg)
+![管理员-管理员管理](https://www.codeshop.fun/Typora-Images/202208091057569.jpg)
 
-![管理员-教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091057368.jpg)
+![管理员-教师管理](https://www.codeshop.fun/Typora-Images/202208091057368.jpg)
 
-![管理员-课程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091057235.jpg)
+![管理员-课程管理](https://www.codeshop.fun/Typora-Images/202208091057235.jpg)
 
-![管理员-评分指标管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091057669.jpg)
+![管理员-评分指标管理](https://www.codeshop.fun/Typora-Images/202208091057669.jpg)
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091057407.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202208091057407.jpg)
 
-![管理员-评价管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091057105.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**评教** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-评价管理](https://www.codeshop.fun/Typora-Images/202208091057105.jpg)
 
